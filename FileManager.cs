@@ -43,5 +43,27 @@ namespace FileExplorerApp
                 Console.WriteLine($"Hata: {ex.Message}");
             }
         }
+        
+        public void ChangeDirectory(string directoryName)
+        {
+            try
+            {
+                string newDirectory = Path.Combine(CurrentDirectory, directoryName);
+                Console.WriteLine($"Yeni dizin: {newDirectory}");
+                if (Directory.Exists(newDirectory))
+                {
+                    CurrentDirectory = newDirectory;
+                    Console.WriteLine($"Yeni dizin: {CurrentDirectory}");
+                }
+                else
+                {
+                    Console.WriteLine("Dizin bulunamadı!");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Hata: {ex.Message}");
+            }
+        }
     }
 }

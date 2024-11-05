@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSFileNavigator", "CSFileNavigator.csproj", "{3D005DFD-6412-42B3-9A41-4A9F3BDED7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D005DFD-6412-42B3-9A41-4A9F3BDED7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D005DFD-6412-42B3-9A41-4A9F3BDED7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D005DFD-6412-42B3-9A41-4A9F3BDED7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D005DFD-6412-42B3-9A41-4A9F3BDED7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCE150C-DF14-4D9F-AB36-786836DA65D6}
+	EndGlobalSection
+EndGlobal
