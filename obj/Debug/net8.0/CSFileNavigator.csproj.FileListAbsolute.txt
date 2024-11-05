@@ -1,0 +1,15 @@
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\bin\Debug\net8.0\CSFileNavigator.exe
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\bin\Debug\net8.0\CSFileNavigator.deps.json
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\bin\Debug\net8.0\CSFileNavigator.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\bin\Debug\net8.0\CSFileNavigator.dll
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\bin\Debug\net8.0\CSFileNavigator.pdb
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.sourcelink.json
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.dll
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\refint\CSFileNavigator.dll
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.pdb
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\CSFileNavigator.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\Projects\CSFileNavigator\obj\Debug\net8.0\ref\CSFileNavigator.dll
