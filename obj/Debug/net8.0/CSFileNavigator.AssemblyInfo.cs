@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSFileNavigator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d84603d8597eb5eec593467eff1ce5bf8bec46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4fec2b1e1bbe1a199079ec1321d7323fc6d17f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSFileNavigator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSFileNavigator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
